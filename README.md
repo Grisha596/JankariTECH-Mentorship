@@ -1,1 +1,1 @@
-# JankariTECH-Mentorship
+# JankariTech-Mentorship
