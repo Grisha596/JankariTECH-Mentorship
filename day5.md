@@ -14,6 +14,8 @@ Given [Preconditions or Initial Context] (has/have+v3)
 When [Event or Trigger] (simple present tense)
 Then [Expected Output] ( _ should be) 
 
+[PR](https://github.com/nabim777/mentorship2023/pull/1)
+
 # Links
 
 https://dev.to/jankaritech/demonstrating-bdd-behavior-driven-development-in-go-1eci
