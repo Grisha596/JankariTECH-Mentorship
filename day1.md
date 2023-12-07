@@ -13,11 +13,11 @@ A file system defines how files are named, stored, and retrieved from a storage 
 
 - `ls` : Lists directory contents of files and directories.
 
-- `ls -a` - Lists all files in current directory including hidden files.
+- `ls -a` : Lists all files in current directory including hidden files.
 
 - `rm [OPTION]... FILE...` : Generally used to delete the files created in the directory.
 
-- `-rf` : used with rm to remove files or directory forcely.
+- `-rf` : Used with rm to remove files or directory forcely.
 
 - `rmdir <options> <directory>` : Deletes empty repository.
 
@@ -27,7 +27,7 @@ A file system defines how files are named, stored, and retrieved from a storage 
 
 - `cd [directory]` : Replace [directory] with the path of the destination directory you want to navigate to.
 
-- `cd ..` - Goes back to previous directory.
+- `cd ..` : Goes back to previous directory.
 
 - `xdg-open {file | URL}` : Used to open a file or URL in the user’s preferred application.
 
@@ -35,7 +35,7 @@ A file system defines how files are named, stored, and retrieved from a storage 
 
 - `cat file_name` : Shows content of a file.
 
-- `cat file1 file2` - Displays contents of multiple files.
+- `cat file1 file2` : Displays contents of multiple files.
 
 - `sudo apt.get update` : Retrieve the information and packages from the authenticated sources for installation, upgrade, and removal of packages along with their dependencies.
 
@@ -86,7 +86,7 @@ ls -l :  Viewing the current permissions of a file or directory.
 - `sudo passwd [username]` : Used to change the user account passwords. 
  
 - `chown` : Used to change the file Owner or group.
-`chown [OPTION]… [OWNER][:GROUP] FILE…`
+`chown [OPTION]… [OWNER][:GROUP] FILE…`<br>
 `chown [OPTION]… –reference=RFILE FILE…`
 
 - `chown owner_name file_name` : To change the Owner of the file.
