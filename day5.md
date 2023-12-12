@@ -1,6 +1,7 @@
 # INTRODUCITON TO CUCUMBER AND GHERKIN
 
-Gherkin - language
+- Gherkin - language
+
 Download extension Cucumber and Material Icon Theme in VS Code
 [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
 
@@ -16,8 +17,8 @@ Then [Expected Output] ( _ should be)
 
 # Links
 
-https://dev.to/jankaritech/demonstrating-bdd-behavior-driven-development-in-go-1eci
-https://cucumber.io/docs/bdd/
-https://inviqa.com/blog/bdd-guide
-https://dev.to/jankaritech/should-you-write-acceptance-tests-for-bugs-2bfm
-https://dannorth.net/introducing-bdd/
+- https://dev.to/jankaritech/demonstrating-bdd-behavior-driven-development-in-go-1eci
+- https://cucumber.io/docs/bdd/
+- https://inviqa.com/blog/bdd-guide
+- https://dev.to/jankaritech/should-you-write-acceptance-tests-for-bugs-2bfm
+- https://dannorth.net/introducing-bdd/
