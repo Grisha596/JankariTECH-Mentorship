@@ -29,5 +29,5 @@
 
 # Composition API VS OPtion API
 
-Option API - computed,method
+Option API - computed,method<br>
 Composition API - reactive,toRefs,computed,watch

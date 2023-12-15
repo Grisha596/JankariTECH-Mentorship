@@ -76,7 +76,7 @@ Step 2: Add a new ssh keys
 
 $ cat ~/.ssh/id_ed25519.pub
 
-output:
+Output:
 
 ssh-ed25519 NAAAC3NzaC1lZDI1NTE5AAAAIF9hTXUaTQppZ2i9CirYIsN4/FAXR6t7EjPRyyNVIdgj nabinalemagara@gmail.com
 
@@ -88,7 +88,7 @@ Copy and paste that output like in figure: setting>SSH and GPG keys
 
 Step 4: Click on “Add SSH key”
 
-[blog](https://nalem7.blogspot.com/2023/11/github.html)
+- [Blog](https://nalem7.blogspot.com/2023/11/github.html)
 
 # Introduction to Java Script
 

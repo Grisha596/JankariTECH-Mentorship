@@ -1,21 +1,20 @@
 # INTRODUCITON TO CUCUMBER AND GHERKIN
 
 - Gherkin - language
-
-Download extension Cucumber and Material Icon Theme in VS Code
-[Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
+- Download extension Cucumber and Material Icon Theme in VS Code<br>
+- [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
 
 # Writing feature files
 
-- Syntax:
+Syntax:
 
-Feature : Title of the scenario
-Scenario : Different Cases
-Given [Preconditions or Initial Context] (has/have+v3)
-When [Event or Trigger] (simple present tense)
+Feature : Title of the scenario<br>
+Scenario : Different Cases<br>
+Given [Preconditions or Initial Context] (has/have+v3)<br>
+When [Event or Trigger] (simple present tense)<br>
 Then [Expected Output] ( _ should be) 
 
-[PR](https://github.com/nabim777/mentorship2023/pull/1)
+- [PR](https://github.com/nabim777/mentorship2023/pull/1)
 
 # Links
 

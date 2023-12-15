@@ -47,28 +47,28 @@ Two modes: Symbolic and Octal mode.
 
 1. Symbolic mode 
 
-The following operators can be used with the symbolic mode:
- `+` : Add permissions
- `-` : Remove permissions
+- The following operators can be used with the symbolic mode:<br>
+ `+` : Add permissions<br>
+ `-` : Remove permissions<br>
  `=` : Set the permissions to the specified values
 
-The following letters that can be used in symbolic mode:
- `r` : Read permission
- `w` : Write permission
+- The following letters that can be used in symbolic mode:<br>
+ `r` : Read permission<br>
+ `w` : Write permission<br>
  `x` : Execute permission 
 
-The following Reference that are used:
- u : Owner/User
- g : Group
- o : Others
- a : All (owner,groups,others)
+- The following Reference that are used:<br>
+ `u` : Owner/User<br>
+ `g` : Group<br>
+ `o` : Others<br>
+ `a` : All (owner,groups,others)
 
  - chmod role=permission file_name
  - _rw_rwx__x
 
 2. Octal mode
 
-In this method we specify permission using three-digit number. Where..
+- In this method we specify permission using three-digit number. Where..
 
 - First digit specify the permission for Owner.
 - Second digit specify the permission for Group. 
@@ -76,16 +76,17 @@ In this method we specify permission using three-digit number. Where..
 
 NOTE: The digits are calculated by adding the values of the individual permissions.
 
-Value	Permission
- 4	   Read Permission
- 2	   Write Permission
- 1	   Execute Permission
+| Value | Permission        |
+|-------|-------------------|
+| 4     | Read Permission   |
+| 2     | Write Permission  |
+| 1     | Execute Permission|
 
-ls -l :  Viewing the current permissions of a file or directory.
+- `ls -l` :  Viewing the current permissions of a file or directory.
 
 - `sudo passwd [username]` : Used to change the user account passwords. 
  
-- `chown` : Used to change the file Owner or group.
+- `chown` : Used to change the file Owner or group.<br>
 `chown [OPTION]… [OWNER][:GROUP] FILE…`<br>
 `chown [OPTION]… –reference=RFILE FILE…`
 
@@ -101,7 +102,7 @@ Visual Studio Code is a free, lightweight and extensible code editor for buildin
 
 # Introduction to Git and Github
 
-Git is a version control system that lets you manage and keep track of your source code history.
+Git is a version control system that lets you manage and keep track of your source code history.<br>
 GitHub is a cloud-based hosting service that lets you manage Git repositories. It is where people can share and collaborate on the files they have created.
 
 # Links
