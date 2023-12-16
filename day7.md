@@ -2,6 +2,11 @@
 
 # [Xpath and CSS Selector](https://www.zenrows.com/blog/xpath-vs-css-selector#conclusion)
 
+- To open selector:
+1. Right Click and Inspect
+2. Press ctrl+f
+- Example: //input[@placeholder="username"]
+
 # [PlayWright](https://playwright.dev/docs/api/class-page)
 
 # Adding in package.json
